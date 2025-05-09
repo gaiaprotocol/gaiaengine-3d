@@ -7,7 +7,7 @@
   "types": "./lib/index.d.ts",
   "main": "./lib/index.js",
   "dependencies": {
-    "@common-module/app": "^0.0.3"
+    "@commonmodule/app": "^0.3.1"
   },
   "devDependencies": {}
 }
